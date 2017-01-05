@@ -8,6 +8,8 @@ raw link:https://medium.freecodecamp.com/this-is-my-story-about-how-i-went-from-
 
 ###Other links about Coding Zero to Job
 
+https://medium.com/@sgarcia.dev/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.2pes8odyh
+
 https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.h1yvub949
 
 https://medium.freecodecamp.com/lessons-from-my-post-bootcamp-job-search-in-london-cb37ea12ec2f#.bpzgd04u0
